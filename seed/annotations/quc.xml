@@ -58,7 +58,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="😗">palajaj | tz’umanik</annotation>
 		<annotation cp="😗" type="tts">Palajaj ruk’ tz’umanik</annotation>
 		<annotation cp="☺">palajaj | tz’ajom | uxlanaq | tze’nem</annotation>
-		<annotation cp="☺" type="tts">tze’naq palajaj</annotation>
+		<annotation cp="☺" type="tts">tze’nem</annotation>
 		<annotation cp="😚">tzapitalik | b’aq’wachaj | palajaj | tz’umanik</annotation>
 		<annotation cp="😚" type="tts">Palajaj ruk’ tz’umanik Utz’apim uwach</annotation>
 		<annotation cp="😙">b’aq’wachaj | palajaj | tz’umanik | tze’nem</annotation>
@@ -274,7 +274,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💜">raxpopoj</annotation>
 		<annotation cp="💜" type="tts">Kaqxuk’uxuj anima’</annotation>
 		<annotation cp="🖤">q’eq | k’ax | man utz taj</annotation>
-		<annotation cp="🖤" type="tts">Q\\’eq anima</annotation>
+		<annotation cp="🖤" type="tts">Q’eq anima</annotation>
 		<annotation cp="💯">100 | nojinaq | cien | ucholajil</annotation>
 		<annotation cp="💯" type="tts">Cien Puntos</annotation>
 		<annotation cp="💢">eyowal | tze’b’al | k’an</annotation>
@@ -1052,7 +1052,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🌶">poqon | q’ax</annotation>
 		<annotation cp="🌶" type="tts">poqon q’ax</annotation>
 		<annotation cp="🥒">raxuwache’ | k’olotal raxuwache’ | uwache’ | wa</annotation>
-		<annotation cp="🥒" type="tts">Raxuwache’</annotation>
+		<annotation cp="🥒" type="tts">k’olotal raxuwache’</annotation>
 		<annotation cp="🥦">saq kotz’ij</annotation>
 		<annotation cp="🥦" type="tts">raxichaj</annotation>
 		<annotation cp="🍄">b’e’uxe’ che’</annotation>
@@ -1062,7 +1062,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🌰">q’ayes</annotation>
 		<annotation cp="🌰" type="tts">Kaxlanmani’y</annotation>
 		<annotation cp="🍞">lokaxlanwa</annotation>
-		<annotation cp="🍞" type="tts">K’axlanwa</annotation>
+		<annotation cp="🍞" type="tts">lokaxlanwa</annotation>
 		<annotation cp="🥐">krosant | nik’aj setesik | rech Francia | wa | kaxlanwa</annotation>
 		<annotation cp="🥐" type="tts">Krosant</annotation>
 		<annotation cp="🥖">jurujik kaxlanwa | kaxlanwa | rech Francia | wa</annotation>
@@ -1070,7 +1070,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥨">b’aq’atim</annotation>
 		<annotation cp="🥨" type="tts">tzayayet</annotation>
 		<annotation cp="🥞">ktan setkaxlanwa | krekaxlanwa | kaxlanwa | wa</annotation>
-		<annotation cp="🥞" type="tts">Kaxlanwa</annotation>
+		<annotation cp="🥞" type="tts">ktan setkaxlanwa</annotation>
 		<annotation cp="🧀">kexu’</annotation>
 		<annotation cp="🧀" type="tts">Jub’a’ Kexu</annotation>
 		<annotation cp="🍖">b’aq | ti’j</annotation>
@@ -1158,7 +1158,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🍨">q’or | uwi’ wa | t’ajaj | ki’</annotation>
 		<annotation cp="🍨" type="tts">Joromsab’al</annotation>
 		<annotation cp="🍩">uwi’ wa | setki’kaxlanwa | ki’</annotation>
-		<annotation cp="🍩" type="tts">Taq mulq\\’ab\\’</annotation>
+		<annotation cp="🍩" type="tts">Taq mulq’ab’</annotation>
 		<annotation cp="🍪">uwi’ wa | ki’</annotation>
 		<annotation cp="🍪" type="tts">Yayet</annotation>
 		<annotation cp="🎂">alaxb’al | setkaxlanwa | nimaq’ij | uwi’ wa | ki’setkaxlanwa | ki’</annotation>
@@ -1298,7 +1298,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🕌">islam | musulman | kojb’al</annotation>
 		<annotation cp="🕌" type="tts">Mezquita</annotation>
 		<annotation cp="🕍">Judio | kojb’al | tyoxja</annotation>
-		<annotation cp="🕍" type="tts">Uchi ja’</annotation>
+		<annotation cp="🕍" type="tts">tyoxja</annotation>
 		<annotation cp="⛩">kojb’al | sinto | santuar</annotation>
 		<annotation cp="⛩" type="tts">sinto</annotation>
 		<annotation cp="🕋">islam | musulman | kojb’al</annotation>
@@ -1586,7 +1586,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🌪">tew | salk’um</annotation>
 		<annotation cp="🌪" type="tts">nim salk’um</annotation>
 		<annotation cp="🌫">sutz’</annotation>
-		<annotation cp="🌫" type="tts">q’eq sutz’</annotation>
+		<annotation cp="🌫" type="tts">sutz’ u-wächulew</annotation>
 		<annotation cp="🌬">sipojem | sutz’ | palajaj | kaqiq’</annotation>
 		<annotation cp="🌬" type="tts">kaqiq’ palajaj</annotation>
 		<annotation cp="🌀">salk’um | nim salk’um | sutsaq tew</annotation>
@@ -1919,8 +1919,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🔍" type="tts">Setesik lame’t nimarisab’al</annotation>
 		<annotation cp="🔎">kristal | nimarisab’al | tzukunem | chakub’al</annotation>
 		<annotation cp="🔎" type="tts">Qetsab’al</annotation>
-		<annotation cp="🕯">q’aq’</annotation>
-		<annotation cp="🕯" type="tts">kotzi’j</annotation>
+		<annotation cp="🕯">q’aq’ | kantela | kotzi’j</annotation>
+		<annotation cp="🕯" type="tts">kantela</annotation>
 		<annotation cp="💡">saqib’al | tze’b’al | rech kaxlan q’aq’ | chomab’al | q’aq’</annotation>
 		<annotation cp="💡" type="tts">Tzijil kaxlan q’aq’</annotation>
 		<annotation cp="🔦">rech kaxlan q’aq’ | q’aq’ | chakub’al | q’aq’ib’al</annotation>
@@ -2045,8 +2045,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="📉" type="tts">Ktajin Kxuli’ Wokk’utunsab’al</annotation>
 		<annotation cp="📊">q’e’tb’al | kut’wachib’al | k’utwachib’al</annotation>
 		<annotation cp="📊" type="tts">K’utwachib’al rech q’e’tb’al</annotation>
-		<annotation cp="📋">K\\’olk\\’iwuj</annotation>
-		<annotation cp="📋" type="tts">K\\’olk\\’iwuj</annotation>
+		<annotation cp="📋">K’olk’iwuj</annotation>
+		<annotation cp="📋" type="tts">K’olk’iwuj</annotation>
 		<annotation cp="📌">t’iqb’al</annotation>
 		<annotation cp="📌" type="tts">Nitz’ lawux</annotation>
 		<annotation cp="📍">t’iqb’al | nitz’ lawux</annotation>
@@ -2213,15 +2213,15 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="⬅" type="tts">moxq’ab’ chab’</annotation>
 		<annotation cp="↖">ch’ab’ | kemriqonib’al | ink’utset | releb’al q’ij-uqajb’al kaqiq’</annotation>
 		<annotation cp="↖" type="tts">moxq’ab’ ch’ab’ pa uwi’</annotation>
-		<annotation cp="↕">Ch\\’ab\\’</annotation>
+		<annotation cp="↕">Ch’ab’</annotation>
 		<annotation cp="↕" type="tts">ch’ab’ pa uwi’-chi uxe’</annotation>
-		<annotation cp="↔">Ch\\’ab\\’</annotation>
+		<annotation cp="↔">Ch’ab’</annotation>
 		<annotation cp="↔" type="tts">ch’ab’ moxq’ab’-wikiq’ab’</annotation>
-		<annotation cp="↩">Ch\\’ab\\’</annotation>
+		<annotation cp="↩">Ch’ab’</annotation>
 		<annotation cp="↩" type="tts">wikiq’ab’ ch’ab’ kotol b’i pa moxq’ab’</annotation>
-		<annotation cp="↪">Ch\\’ab\\’</annotation>
+		<annotation cp="↪">Ch’ab’</annotation>
 		<annotation cp="↪" type="tts">moxq’ab’ q’ab’ ch’ab’ kotol b’i pa wikiq’ab’</annotation>
-		<annotation cp="⤴">Ch\\’ab\\’</annotation>
+		<annotation cp="⤴">Ch’ab’</annotation>
 		<annotation cp="⤴" type="tts">wikiq’ab’ ch’ab’ kotol b’i pa uwi’</annotation>
 		<annotation cp="⤵">ch’ab’ | uxe’</annotation>
 		<annotation cp="⤵" type="tts">wikiq’ab’ ch’ab’ kotol b’i chi uxe’</annotation>
@@ -2396,7 +2396,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="❕">mayib’al | etal | tz’ajomm | retal tz’ib’</annotation>
 		<annotation cp="❕" type="tts">Retal saq mayb’al</annotation>
 		<annotation cp="❗">mayb’al | etal | ratal taq tz’ib’</annotation>
-		<annotation cp="❗" type="tts">Retal Tzaqb\\’al k\\’u\\’x</annotation>
+		<annotation cp="❗" type="tts">Retal Tzaqb’al k’u’x</annotation>
 		<annotation cp="〰">nimajuch’ | retal tz’ib’ | kotokik</annotation>
 		<annotation cp="〰" type="tts">kotokik nimajuch’</annotation>
 		<annotation cp="©">copyright</annotation>
