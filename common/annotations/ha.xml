@@ -2430,7 +2430,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🅱">b | irin jini</annotation>
 		<annotation cp="🅱" type="tts">maɓallin B (irin jini)</annotation>
 		<annotation cp="🆑">cl</annotation>
-		<annotation cp="🆑" type="tts">Maɓallin CL</annotation>
+		<annotation cp="🆑" type="tts">maɓallin CL</annotation>
 		<annotation cp="🆒">mai ni’ima</annotation>
 		<annotation cp="🆒" type="tts">maɓallin MAI NI’IMA</annotation>
 		<annotation cp="🆓">kyauta</annotation>

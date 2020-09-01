@@ -2022,7 +2022,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="📝">قېرىنداش</annotation>
 		<annotation cp="📝" type="tts">ئەسلەتمە</annotation>
 		<annotation cp="💼">قول سومكا</annotation>
-		<annotation cp="💼" type="tts">قول سومكا</annotation>
+		<annotation cp="💼" type="tts">سومكا</annotation>
 		<annotation cp="📁">قىسقۇچ | ھۆججەت</annotation>
 		<annotation cp="📁" type="tts">ھۆججەت قىسقۇچ</annotation>
 		<annotation cp="📂">قىسقۇچ | ئوچۇق | ھۆججەت</annotation>

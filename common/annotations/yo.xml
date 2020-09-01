@@ -706,7 +706,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🚣‍♀">ọkọ́ ojú omi kékeré | obìrin | ọkọ̀ ojú omi</annotation>
 		<annotation cp="🚣‍♀" type="tts">obìnrin tí ń wakọ̀ ojú omo kékeré</annotation>
 		<annotation cp="🏊">wẹdò</annotation>
-		<annotation cp="🏊" type="tts">Ẹni N Wẹ</annotation>
+		<annotation cp="🏊" type="tts">Ẹni tí ń wẹdò</annotation>
 		<annotation cp="🏊‍♂">ọkùnrin | wẹdò</annotation>
 		<annotation cp="🏊‍♂" type="tts">ọkùnrin tí ń wẹdò</annotation>
 		<annotation cp="🏊‍♀">obìnrin | wẹdò</annotation>

@@ -298,7 +298,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="👉">pegefinger | peger til højre | finger peger til højre | finger</annotation>
 		<annotation cp="👉" type="tts">højre</annotation>
 		<annotation cp="👆">pegefinger | peger op | finger peger op | finger</annotation>
-		<annotation cp="👆" type="tts">op</annotation>
+		<annotation cp="👆" type="tts">finger peger op</annotation>
 		<annotation cp="🖕">krop | hånd | finger</annotation>
 		<annotation cp="🖕" type="tts">langefinger</annotation>
 		<annotation cp="👇">finger peger ned | pegefinger | peger ned | finger</annotation>

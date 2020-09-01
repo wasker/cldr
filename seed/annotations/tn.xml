@@ -2422,11 +2422,11 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🅱">mofuta wa madi | b</annotation>
 		<annotation cp="🅱" type="tts">konopo ya B (mofuta wa madi)</annotation>
 		<annotation cp="🆑">cl</annotation>
-		<annotation cp="🆑" type="tts">konopo Ya CL</annotation>
+		<annotation cp="🆑" type="tts">konopo ya CL</annotation>
 		<annotation cp="🆒">tsiditsana</annotation>
-		<annotation cp="🆒" type="tts">Konopo YA TSIDITSANA</annotation>
+		<annotation cp="🆒" type="tts">konopo ya TSIDITSANA</annotation>
 		<annotation cp="🆓">mahala</annotation>
-		<annotation cp="🆓" type="tts">konopo YA GOLOLA</annotation>
+		<annotation cp="🆓" type="tts">konopo ya GOLOLA</annotation>
 		<annotation cp="ℹ">tshedimosetso | i</annotation>
 		<annotation cp="ℹ" type="tts">tshedimosetso</annotation>
 		<annotation cp="🆔">id | boitshupo</annotation>
@@ -2434,13 +2434,13 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="Ⓜ">m | sekele</annotation>
 		<annotation cp="Ⓜ" type="tts">dirilwe sekele ya M</annotation>
 		<annotation cp="🆕">ntšhwa</annotation>
-		<annotation cp="🆕" type="tts">konopo yA NTŠHWA</annotation>
+		<annotation cp="🆕" type="tts">konopo ya NTŠHWA</annotation>
 		<annotation cp="🆖">ng</annotation>
 		<annotation cp="🆖" type="tts">konopo ya NG</annotation>
 		<annotation cp="🅾">mofuta wa madi | o</annotation>
 		<annotation cp="🅾" type="tts">konopo ya O (mofuta wa madi)</annotation>
 		<annotation cp="🆗">SIAME</annotation>
-		<annotation cp="🆗" type="tts">Konopo ya SIAME</annotation>
+		<annotation cp="🆗" type="tts">konopo ya SIAME</annotation>
 		<annotation cp="🅿">phaking</annotation>
 		<annotation cp="🅿" type="tts">konopo ya P</annotation>
 		<annotation cp="🆘">thuso | sos</annotation>
@@ -2454,7 +2454,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🈂">サ | Sejapane | &quot;tuediso ya tirelo&quot; | katakana</annotation>
 		<annotation cp="🈂" type="tts">konopo ya Sejapane ya &quot;tuediso ya tirelo&quot;</annotation>
 		<annotation cp="🈷">&quot;madi a kgwedi le kgwedi&quot; | letshwao la kerafa | Sejapane | 月</annotation>
-		<annotation cp="🈷" type="tts">Konopo ya Sejapane ya &quot;madi a kgwedi le kgwedi&quot;</annotation>
+		<annotation cp="🈷" type="tts">konopo ya Sejapane ya &quot;madi a kgwedi le kgwedi&quot;</annotation>
 		<annotation cp="🈶">letshwao la kerafa | &quot;ga se mahala&quot; | Sejapane | 有</annotation>
 		<annotation cp="🈶" type="tts">konopo ya Sejapane ya &quot;ga se mahala&quot;</annotation>
 		<annotation cp="🈯">letshwao la kerafa | Sejapane | &quot;bolokilwe&quot; | 指</annotation>

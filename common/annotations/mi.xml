@@ -2458,7 +2458,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🆚">ki | ki a</annotation>
 		<annotation cp="🆚" type="tts">pātene VS</annotation>
 		<annotation cp="🈁">Hapanīhi | ココ | &quot;i konei&quot; | katakana</annotation>
-		<annotation cp="🈁" type="tts">pātene Hapanīhi ’i konei’</annotation>
+		<annotation cp="🈁" type="tts">pātene Hapanīhi &quot;i konei&quot;</annotation>
 		<annotation cp="🈂">Hapanīhi | サ | &quot;utu ratonga&quot; | katakana</annotation>
 		<annotation cp="🈂" type="tts">pātene Hapanīhi &quot;utu ratonga&quot;</annotation>
 		<annotation cp="🈷">&quot;nuinga ā-marama&quot; | Hapanīhi | tohuwhakairo | 月</annotation>
