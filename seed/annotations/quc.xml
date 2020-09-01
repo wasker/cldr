@@ -1457,8 +1457,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🚡" type="tts">Chikajij xekekb’al</annotation>
 		<annotation cp="🛰">chikajil</annotation>
 		<annotation cp="🛰" type="tts">sutinel</annotation>
-		<annotation cp="🚀">chikajil</annotation>
-		<annotation cp="🚀" type="tts">Xik’ich’ich’</annotation>
 		<annotation cp="🛸">UFO</annotation>
 		<annotation cp="🛸" type="tts">chikajilset</annotation>
 		<annotation cp="🛎">ch’ich’ | telenel | warab’al</annotation>
@@ -1903,8 +1901,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🎞" type="tts">taq uchi’ silob’k’utwachib’al</annotation>
 		<annotation cp="📽">k’olib’al silob’k’utwachinem | silob’k’utwachinem | k’utb’al | silob’wachib’al</annotation>
 		<annotation cp="📽" type="tts">k’utb’al silob’k’utwachinem</annotation>
-		<annotation cp="🎬">k’olk’iwuj</annotation>
-		<annotation cp="🎬" type="tts">K’olk’iwuj</annotation>
 		<annotation cp="📺">tv | silob’wachinem</annotation>
 		<annotation cp="📺" type="tts">Q’axwachirisab’al</annotation>
 		<annotation cp="📷">silob’wachib’al</annotation>
