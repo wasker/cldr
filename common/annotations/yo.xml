@@ -2453,8 +2453,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🅿" type="tts">bó̩tìnì P</annotation>
 		<annotation cp="🆘">ìrànwọ́ | sos</annotation>
 		<annotation cp="🆘" type="tts">Bọtini SOS</annotation>
-		<annotation cp="🆙">òkè | àmì</annotation>
-		<annotation cp="🆙" type="tts">Bọtini OKE!</annotation>
 		<annotation cp="🆚">figagbága pẹ̀lú | fp</annotation>
 		<annotation cp="🆚" type="tts">Bọtini VS</annotation>
 		<annotation cp="🈁">Japanese | ココ | &quot;níbí&quot; | katakana</annotation>

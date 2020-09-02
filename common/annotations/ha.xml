@@ -2453,8 +2453,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🅿" type="tts">maɓallin P</annotation>
 		<annotation cp="🆘">taimako | sos</annotation>
 		<annotation cp="🆘" type="tts">maɓallin SOS</annotation>
-		<annotation cp="🆙">maki | sama</annotation>
-		<annotation cp="🆙" type="tts">maɓallin SAMA!</annotation>
 		<annotation cp="🆚">tare da | vs</annotation>
 		<annotation cp="🆚" type="tts">maɓallin VS</annotation>
 		<annotation cp="🈁">Na Japan | katakana | ココ | &quot;a nan&quot;</annotation>

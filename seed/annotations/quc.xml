@@ -2441,8 +2441,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🅿" type="tts">pitz’b’al P</annotation>
 		<annotation cp="🆘">tob’anem | sos</annotation>
 		<annotation cp="🆘" type="tts">Pitz’b’al SOS</annotation>
-		<annotation cp="🆙">etal | pa uwi’</annotation>
-		<annotation cp="🆙" type="tts">Pitz’b’al pa uwi’!</annotation>
 		<annotation cp="🆚">ruk’ | vs</annotation>
 		<annotation cp="🆚" type="tts">Pitz’b’al VS</annotation>
 		<annotation cp="🈁">rech japón | katakana | ココ | &quot;waral&quot;</annotation>

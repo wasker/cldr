@@ -2446,8 +2446,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🅿" type="tts">P دا بٹن</annotation>
 		<annotation cp="🆘">مدد | مصیبت دا اشارہ</annotation>
 		<annotation cp="🆘" type="tts">SOS بٹن</annotation>
-		<annotation cp="🆙">نشان لانا | اُوتے</annotation>
-		<annotation cp="🆙" type="tts">اوتے! دا بٹن</annotation>
 		<annotation cp="🆚">وائرس | vs</annotation>
 		<annotation cp="🆚" type="tts">VS بٹن</annotation>
 		<annotation cp="🈁">جاپانی | کٹاکانا | ココ | “ایتھے اے”</annotation>

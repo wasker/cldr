@@ -2453,8 +2453,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🅿" type="tts">тугмаи &quot;P&quot;</annotation>
 		<annotation cp="🆘">кӯмак | sos</annotation>
 		<annotation cp="🆘" type="tts">тугмаи &quot;SOS&quot;</annotation>
-		<annotation cp="🆙">аломат | боло</annotation>
-		<annotation cp="🆙" type="tts">тугмаи &quot;Боло!&quot;</annotation>
 		<annotation cp="🆚">бар зидди | vs</annotation>
 		<annotation cp="🆚" type="tts">тугмаи &quot;VS&quot;</annotation>
 		<annotation cp="🈁">ҷопонӣ | &quot;инҷо&quot; | катакана | ココ</annotation>

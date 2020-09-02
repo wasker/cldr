@@ -2453,8 +2453,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🅿" type="tts">pātene P</annotation>
 		<annotation cp="🆘">āwhina | sos</annotation>
 		<annotation cp="🆘" type="tts">pātene SOS</annotation>
-		<annotation cp="🆙">tohu | ake</annotation>
-		<annotation cp="🆙" type="tts">pātene AKE!</annotation>
 		<annotation cp="🆚">ki | ki a</annotation>
 		<annotation cp="🆚" type="tts">pātene VS</annotation>
 		<annotation cp="🈁">Hapanīhi | ココ | &quot;i konei&quot; | katakana</annotation>

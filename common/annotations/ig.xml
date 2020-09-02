@@ -2453,8 +2453,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🅿" type="tts">Ọdụmbi P</annotation>
 		<annotation cp="🆘">ènyèmaka | sos</annotation>
 		<annotation cp="🆘" type="tts">ỌDỤMBI sos</annotation>
-		<annotation cp="🆙">elu | akara</annotation>
-		<annotation cp="🆙" type="tts">ỌDỤMBI elu!</annotation>
 		<annotation cp="🆚">vs | amaokwu</annotation>
 		<annotation cp="🆚" type="tts">ỌDỤMBI vs</annotation>
 		<annotation cp="🈁">katakana | Ndị Japan | “ebe a” | ココ</annotation>
